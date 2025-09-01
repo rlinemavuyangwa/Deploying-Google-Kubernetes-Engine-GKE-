@@ -29,12 +29,12 @@ This project documents my **hands-on lab** from **Google Cloud Skill Boost**, wh
 ## 📂 Repository Contents
 - `README.md` → Documentation of this lab.  
 - `gke_demo.mp4` → Video walkthrough of the lab demo.  
-- (Optional: `banner.png` if you added one).  
+  
 
 ---
 
 ## 📌 Next Steps
 - Continue building and documenting cloud security & DevOps projects.  
-- Share learning journey on [LinkedIn](https://linkedin.com/in/rlinemavuyangwa).  
+- Share learning journey on (https://linkedin.com/in/rlinemavuyangwa).  
 
 
