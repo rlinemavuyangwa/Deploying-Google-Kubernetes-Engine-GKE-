@@ -22,13 +22,13 @@ As part of my Google Cloud Skill Boost journey, I completed a hands-on lab on de
 
 
 
-📹 \*\*Video Demo\*\*: \[GKE Demo Video](gke\_demo.mp4)  
+  
 
 <video src="https://github.com/rlinemavuyangwa/Deploying-Google-Kubernetes-Engine-GKE-/raw/refs/heads/main/gke_demo.mp4" controls width="700"></video>
 
 
 
-📂 \*\*Repository\*\*: This repo documents my cloud labs and demos.  
+
 
 
 
